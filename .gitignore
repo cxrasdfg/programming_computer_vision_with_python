@@ -1,0 +1,9 @@
+*.pyd
+temp*
+chapter3/aligned/*
+*.pkl
+*.pth
+.ipynb_checkpoints
+__pycache__
+res*
+tmp*
